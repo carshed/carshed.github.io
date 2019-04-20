@@ -1,0 +1,437 @@
+@media screen and (max-width: 1450px){
+   #comment-center{
+      width: 90%;
+      height: auto;
+      margin: 0 auto;
+      max-width: 1170px;
+   }
+   #comment-block {
+      width: -webkit-fill-available;
+      height: auto;
+      display: -webkit-box;
+      padding-bottom: 90px;
+   }
+}
+
+@media screen and (max-width: 1235px){
+    #sale-calculator-left span {
+       font-size: 21px;
+    }
+    #sale-calculator-left {
+        margin-top: 80px;
+    }
+}
+@media screen and (max-width: 1170px){
+    #info-right img {
+        width: 100%;
+        margin-top: 150px;
+    }
+}
+@media screen and (max-width: 1083px){
+    #sale-calculator-left {
+        margin-top: 68px;
+    }
+    #info-left span{
+        font-size: 14px;
+    }
+    #contact-right-block{
+        padding-top: 60px;
+    }
+    #one-display-bottom div {
+       width: 50%;
+       padding-bottom: 35px;
+    }
+    #one-diplay {
+       width: 100%;
+       height: auto;
+       padding-bottom: 80px;
+    }   
+}
+@media screen and (max-width: 1070px){
+    #info-right{
+        width: 100%;
+    }
+    .info-element{
+        position: absolute;
+    }
+    #info-left span{
+        margin-top: 61px;
+    }
+    #info-left br{
+        display: none;
+    }
+    #info-left{
+        width: 100%;
+    }
+    #info-right img {
+        width: 80%;
+        float: none;
+        display: -webkit-box;
+        margin: 0 auto;
+        margin-top: 61px;
+    }    
+}
+@media screen and (max-width: 1048px){
+    #footer-left li{
+        padding-right: 40px;
+    }
+}    
+@media screen and (max-width: 1024px){
+    #com{
+        width: 100%;
+    }
+    .info-dorogo-block-ctr-font{
+        width: 100%;
+    }
+    #info-dorogo-block-ctr{
+        margin-top: 45px;
+    }
+}
+@media screen and (max-width: 990px){
+    #sale-block{
+        display: inline-block;
+        margin-top: 30px;
+    }
+    #sale-left{
+        width: 100%;
+    }
+    #sale-right{
+        width: 100%;
+    }
+    #comment{
+        margin-top: -200px;
+    }
+    #qa-left{
+        width: 0px;
+    }
+    #qa-right{
+        width: 100%;
+    }
+    #qa-left img{
+        display: none;
+    }
+
+}
+@media screen and (max-width: 970px){
+    #info-left{
+        width: 100%;
+        height: auto;
+    }
+    #info-right{
+        width: 100%;
+        height: auto;
+    }
+}
+@media screen and (max-width: 938px){
+    #footer-left li{
+        padding-right: 30px;
+    }
+    .one-display-car{
+        width: 90%;
+    }
+}
+@media screen and (max-width: 910px){
+   #dorogo-block p {
+       width: 100%;
+       margin-top: 41px;
+       height: auto;
+       display: flow-root;
+   }
+   #dorogo-block span{
+       width: 100%;
+   }
+   #dorogo-block button{
+       float: left;
+       margin-top: 19px;
+       width: 275px;
+       height: 60px;
+   }
+   #just-block{
+       margin-top: 0px;
+   }
+}
+@media screen and (max-width: 900px){
+    #contact-center{
+        width: 90%;
+    }
+    #contact-left{
+        width: 100%;
+    }
+    #contact-right{
+        width: 100%;
+    }
+    #contact-left img{
+        width: 100%;
+        height: 400px;
+    }
+}
+@media screen and (max-width: 770px){
+    #footer-right{
+        width: 100%;
+        padding-bottom: 30px;
+        margin-top: 0px;
+    }
+    #footer-left{
+        width: 100%;
+    }
+    #footer-left p{
+        margin-top: 15px;
+    }
+}
+@media screen and (max-width: 857px){
+    #header{
+        height: 76px;
+    }
+    #header-left a{
+        margin-top: -8px;
+    }
+    #header-left span{
+        display: none;
+    }
+    #header-right{
+        display: none;
+    }
+    #responsive-menu{
+        display: block;
+    }
+    #slider-block h1{
+        font-size: 31px;
+    }
+    #just-left{
+        width: 100%;
+    }
+    #just-right{
+        width: 100%;
+    }
+}
+@media screen and (max-width: 844px){
+
+    #sale-calculator {
+        width: 100%;
+        height: auto;
+        padding-bottom: 50px;
+    }
+    #sale-calculator-left{
+        width: 100%;
+        margin-top: 55px;
+    }
+    #sale-calculator-left span{
+        width: 100%;
+        float: left;
+        text-align: center;
+    }
+    #sale-calculator-right{
+        width: 100%;
+        margin-top: 30px;
+    }
+    #sale-calculator-right button{
+        display: -webkit-box;
+        float: none;
+    }
+    #comment-block-ctr{
+       width: 86%;
+    }   
+    .comment-ph{
+        margin-top: 34px;
+    }
+    .comment-element{
+        position: absolute;
+    }
+    .comment-pages{
+        float: left;
+        margin-top: 62px;
+    }
+}
+@media screen and (max-width: 637px){
+    #footer-left li {
+        width: 100%;
+        padding-right: 0px;
+        margin-top: 14px;
+        margin-left: -40px;
+    }
+    #footer-left a{
+        font-size: 21px;
+    }
+    #footer-right img{
+        float: left;
+    }
+    #footer-right {
+        width: 100%;
+        padding-bottom: 30px;
+        margin-top: 18px;
+    }
+    #info-right img{
+        width: 100%;
+    }
+    #slider-block span{
+        font-size: 14px;
+    }
+    #slider-block h1{
+        font-size: 25px;
+    }
+    #slider-block button{
+        margin-top: -33px;
+    }
+    #gallery-center h2{
+        margin-top: 60px;
+    }
+    .one-display-block-h1{
+        font-size: 25px;
+    }
+    .one-display-block-span{
+        font-size: 15px;
+    }
+    #one-display-button-block button{
+        margin-top: -14px;
+        height: 60px;
+    }
+    #need-block div {
+        width: 100%;
+        margin-top: 15px;
+    }
+    .need-font {
+        float: left;
+        margin-top: 17px;
+        margin-left: 0px;
+        font-size: 18px;
+        width: 100%;
+    }
+    #need span {
+        margin-top: 19px;
+        margin-left: 0px;
+    }
+    #need{
+        margin-top: 30px;
+    }
+}
+@media screen and (max-width: 537px){    
+    #one-display-bottom div {
+       width: 100%;
+       padding-bottom: 35px;
+    }
+    #one-display-bottom p {
+      width: 100%;
+      margin: 0 auto;
+    }
+    #one-display-bottom br{
+        display: none;
+    }
+}    
+@media screen and (max-width: 510px){
+    #info-left b{
+        font-size: 28px;
+    }
+    .info-element{
+        margin-top: 0px;
+    }
+    #info-left span{
+        margin-top: 34px;
+    }
+    .comment-ph-b{
+        font-size: 28px;
+    }
+    #gallery-center h2{
+        font-size: 28px;
+        font-family: 'Museo Sans 900 Black';
+    }
+    #gallery-img{
+        width: 100%;
+    }
+    #gallery-img-opacity img {
+        width: 30%;
+        height: 30%;
+        margin-top: 19%;
+    }
+    #contact-right b{
+        font-size: 28px;
+    }
+    #contact-right-block span{
+        width: 100%;
+    }
+    #contact-right button{
+        height: 60px;
+        margin-top: 0px;
+    }
+    #hr{
+        margin-top: 20px;
+    }
+    #contact-right-block{
+        padding-top: 30px;
+    }
+    #info-dorogo-block-ctr b{
+        font-size: 28px;
+        height: auto;
+        padding-bottom: 14px;
+        display: -webkit-box;
+    }
+    .info-dorogo-block-ctr-font{
+        margin-top: 59px;
+    }
+    .qa-right-b{
+        font-size: 28px;
+        height: auto;
+        display: -webkit-box;
+        padding-bottom: 15px;
+    }
+    #just-left b{
+        font-size: 28px;
+    }
+    #need b{
+        font-size: 28px;
+    }
+    #need span{
+        margin-top: 30px;
+    }
+    #need-block{
+        margin-top: 10px;
+    }
+}
+@media screen and (max-width: 506px){
+    #just-right-block b{
+        margin-left: 0px;
+        margin-top: 20px;
+        width: 100%;
+        display: -webkit-inline-box;
+    }
+    #just-right-block{
+        height: auto;
+        padding-bottom: 20px;
+    }
+    #just-right-block ul{
+        margin-left: -20px;
+    }
+    #line{
+        display: none;
+    }
+}
+@media screen and (max-width: 480px){
+    #comment {
+       margin-top: -140px;
+    }
+}
+@media screen and (max-width: 480px){
+    #comment {
+       margin-top: -140px;
+    }
+    #sale-left b{
+        font-size: 80px;
+    }
+}
+@media screen and (max-width: 460px){
+    #qa-bl b {
+        font-size: 18px;
+        padding: 23px 0px 23px 0px;
+    }   
+    #qa-bl span{
+        padding: 18px 0px 18px 0px;
+    }
+}
+@media screen and (max-width: 460px){
+    #qa-bl b {
+        font-size: 15px;
+        padding: 25px 0px 24px 0px;
+    }   
+    #qa-bl span{
+        padding: 18px 0px 18px 0px;
+    }
+}
